@@ -1,0 +1,36 @@
+body{
+    background: seashell;
+}
+#left {
+    float: left;
+    width: 50%;
+}
+
+#left>ul>li {
+    list-style: none;
+}
+
+#right {
+    float: right;
+    width: 50%;
+}
+
+#app {
+    width: 100%;
+    height: 100%;
+}
+
+li,
+h2 {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: deeppink;
+}
+p{
+    background: deeppink;
+    font: bold 100% "微软雅黑";
+    color: #fff;
+}
