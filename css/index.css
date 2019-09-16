@@ -34,3 +34,23 @@ p{
     font: bold 100% "微软雅黑";
     color: #fff;
 }
+#top{
+    position: fixed;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    width: 100%;
+    height: 6px;
+    text-align: center;
+    font: 12px/12px '宋体';
+}
+#bottom{
+    position: fixed;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    width: 100%;
+    height: 6px;
+    text-align: center;
+    font: 24px/24px '宋体';
+}
