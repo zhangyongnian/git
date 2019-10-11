@@ -59,7 +59,7 @@ p{
     bottom: 20px;
     left: 0;
     font-size: 50px;
-    -webkit-animation:myfirst 5s   2; /* Safari and Chrome */
+    -webkit-animation:myfirst 5s   1; /* Safari and Chrome */
 }
 @-webkit-keyframes myfirst /* Safari and Chrome */
 {
