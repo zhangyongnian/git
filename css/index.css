@@ -56,11 +56,12 @@ p{
 }
 #zhiling{
     position: fixed;
-    bottom: 0;
+    bottom: 20px;
     /*left: 35%;*/
     /*height:1008px ; !*672px;*!*/
     /*width: 640px  ; !*426px;*!*/
     left: 0;
-    height:672px;
-    width:426px ;
+    font-size: 50px;
+    /*height:672px;*/
+    /*width:426px ;*/
 }
