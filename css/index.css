@@ -57,11 +57,12 @@ p{
 #zhiling{
     position: fixed;
     bottom: 20px;
-    /*left: 35%;*/
-    /*height:1008px ; !*672px;*!*/
-    /*width: 640px  ; !*426px;*!*/
     left: 0;
     font-size: 50px;
-    /*height:672px;*/
-    /*width:426px ;*/
+    -webkit-animation:myfirst 5s   2; /* Safari and Chrome */
+}
+@-webkit-keyframes myfirst /* Safari and Chrome */
+{
+    from {right: 0}
+    to {left: 100%}
 }
